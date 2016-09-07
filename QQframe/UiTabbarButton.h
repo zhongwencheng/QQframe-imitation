@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  UiTabbarButton.h
 //  QQframe
 //
 //  Created by 钟文成(外包) on 16/8/31.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface UiTabbarButton : UIControl
 
 @end
-
